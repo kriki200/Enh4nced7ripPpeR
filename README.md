@@ -17,3 +17,22 @@
 
 # Enh4nced7ripPpeR
 Enhanced ripper for TIDAL, wrapper based on tidal-dl-ng
+
+#Installation:
+
+Create a virtual enviorment with python, choose a folder before where you want it then after you create it install the needed repos from pip, copy the files from the github repository in and it should work.
+
+Creating a virtual enviorment:
+
+    - Run `python -m venv /path/to/new/virtual/environment` where path is your path
+
+Things to install with pip: (Run the following commands to install needed software to run this wrapper 😊)
+
+    - `pip install --upgrade tidal-dl-ng`
+    - `pip install bs4`
+
+##Note:
+
+      First thing to run: python EnhancedTripper.py man
+
+© Posted with the power of 🌈's™.
