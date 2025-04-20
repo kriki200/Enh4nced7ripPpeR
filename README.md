@@ -8,6 +8,7 @@
     - Can download compleate Discographys, just pass the artist LiNK, as so: "https://tidal.com/browse/artist/6450722?u" , withouth the doublequotes, this can also be matche with albums, just seperate everything with ",".
 
 #Notes 😊:
+
     - The software will create a Done folder within your selected download folder where your downloads will be.
     - When downloading w8 for the files to be transferred to the Done folder before using, as if not it means, that the download hasn't been sorted, cleaned and Str1pped of 4ddi7ional names :) .
     - You will need at least a working TIDAL trial Subscription, to download from it.
