@@ -1,0 +1,10 @@
+#Put the LiNK's to the files you wish to download here.
+#To obtain a link, just press share on the item (Album/Song/Playlist) you wish to download in TIDAL :) .
+#The LiNK's have to be sepperated with a new line.
+
+#This file will be emptied everytime the software is ran with the option "1"
+
+https://tidal.com/browse/album/140604192?u
+https://tidal.com/browse/track/54262235?u
+https://tidal.com/browse/album/140604192?u
+https://tidal.com/browse/track/52888672?u
