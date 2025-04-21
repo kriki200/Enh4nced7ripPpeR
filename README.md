@@ -26,6 +26,8 @@ Creating a virtual enviorment:
 
     - Run `python -m venv /path/to/new/virtual/environment` where path is your path
 
+You'll have to run `source bin/activate` in that folder then install the requirements :) .
+
 Things to install with pip: (Run the following commands to install needed software to run this wrapper 😊)
 
     - `pip install --upgrade tidal-dl-ng`
